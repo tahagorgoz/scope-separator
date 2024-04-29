@@ -26,7 +26,7 @@ args = parser.parse_args()
 
 # Print usage information for -h, --h, and --help
 if args.file is None and args.output is None:
-    print("Use: python script.py -f url_file_path.txt -o keywords_file_path.txt")
+    print("Use: python scope-seperator.py -f url_file_path.txt -o keywords_file_path.txt")
     exit()
 
 # Read keywords from file
@@ -35,8 +35,8 @@ with open(args.output, 'r') as file:
 
 # Development mode
 if args.dev:
-    print("Hoqqabaz")
-    print("tahagorgoz")
+    print("@blgsvnomer")
+    print("@tahagorgoz")
 else:
     # Path to the file containing target URLs
     url_file_path = args.file
