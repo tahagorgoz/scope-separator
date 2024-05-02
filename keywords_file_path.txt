@@ -1,0 +1,58 @@
+Giriş
+login _UserName
+login
+UserName
+Password
+Şifre
+Sifre
+Oturum aç
+Oturum
+Hesap
+Account
+login
+sign in
+log in
+access
+secure
+password
+credentials
+account
+authenticate
+session
+enter
+authentication
+logon
+signinnow
+portal
+logmein
+letmein
+logmeon
+log_on
+sign_in_now
+access_now
+authenticate_now
+enter_here
+login_here
+sign_in_here
+log_on_here
+portal_login
+Giriş
+giriş
+kullanıcı
+şifre
+oturum
+hesap
+güvenlik
+kimlik
+doğrulama
+oturum aç
+giriş yap
+giriş yapın
+hesap girişi
+giriş sayfası
+oturum açma
+kimlik doğrulama
+kullanıcı adı
+parola
+erişim
+Oturum
